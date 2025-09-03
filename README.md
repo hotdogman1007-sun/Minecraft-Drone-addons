@@ -7,22 +7,6 @@ These are created for **Minecraft: Bedrock Edition (Windows 10 / Mobile / Consol
 
 ## 🚀 Add-ons
 
-### 🐄 Super Cow Add-on
-- Transforms cows into **Super Cows** with:
-  - 100 health
-  - 20 attack damage
-  - Custom name and look
-- Designed as a fun “mini boss” in survival.
-
-**Screenshots:**
-![Super Cow](screenshots/supercow.png)
-
-**Download:**
-- [SuperCowBehavior.mcpack](SuperCowBehavior.mcpack)
-- [SuperCowResource.mcpack](SuperCowResource.mcpack)
-
----
-
 ### 🚁 Drone Add-on
 - Adds a custom **Drone entity**:
   - Follows the player like a pet
